@@ -1,1 +1,2 @@
 You have to unrar library folder and packagecache, and put packagecache folder to Library folder.
+->For start scene, if you want to start with start scene, double click startscene(it is in scene folder.) and click playbutton.
